@@ -1,0 +1,24 @@
+{
+  "name": "bafwhitelistcheckaction",
+  "version": "1.0.0",
+  "description": "GitHub Action to check of used npm packages are part of a whitelist",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElectronicWizzard/bafwhitelistcheckaction.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElectronicWizzard/bafwhitelistcheckaction/issues"
+  },
+  "homepage": "https://github.com/ElectronicWizzard/bafwhitelistcheckaction#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.3",
+    "@actions/github": "^2.1.1"
+  }
+}
